@@ -7,7 +7,7 @@ let whatDoYouWannaBecomeInYourLife = 'programmer';
 //Create variable name (gender) & store your gender.
 let gender = 'Female';
 
-//Create variable name (facebookHandle) & store your Twitter handle.
+//Create variable name (facebookHandle) & store your Facebook handle.
 let facebookHandle = 'Nicole G. Salazar';
 
 //Log all the variables to the console using the code runner in VSCode.
